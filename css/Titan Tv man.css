@@ -1,0 +1,70 @@
+#heading{
+    text-align: center;
+    background-color: black;
+    color: purple;
+    margin-left: 24px;
+    padding: 10px 20px 10px 20px;
+    transition: 1s .2s ease;
+}
+#heading:hover{
+    transform: scale(o.9);
+}
+#video{
+    width: 600px;
+    height: 400px;
+}
+#img{
+    width: 600px;
+    height: 400px;
+}
+#heading2{
+    color: blue;
+}
+#p2{
+    color: aquamarine;
+}
+#heading3{
+    color: crimson;
+}
+#p3{
+    color: rgb(231, 101, 68);
+}
+#heading4{
+    color: brown;
+}
+#p4{
+    color: burlywood;
+}
+#heading5{
+    color: green;
+}
+#p5{
+    color: greenyellow;
+}
+#heading6{
+    color: wheat;
+}
+#p6{
+    color: aqua;
+}
+#heading7{
+    color: gray;
+}
+#p7{
+    color: forestgreen;
+}
+body{
+    background-color: black;
+}
+#heading8{
+    color: tomato;
+}
+#p8{
+    color: darkred;
+}
+#heading9{
+    color: gold;
+}
+#p9{
+    color: navy;
+}

@@ -1,0 +1,23 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(28, 196, 56);
+    /* border-radius: 50%; */
+    animation: square 2s ease .2s infinite;
+}
+@keyframes circle {
+    0%{
+        margin-left: 0px;
+        background-color: aquamarine;
+    }
+
+   50% {
+    margin-left: 300px;
+    background-color: chartreuse;
+    transform: rotate(180deg);
+}
+100%{
+margin-left: 500px;
+background-color: black;
+}
+}
